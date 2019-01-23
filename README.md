@@ -1,6 +1,3 @@
-# ICML_submission_2243
-Codes for icml submission 2243
-
 ## Preliminaries
 It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries Pytorch package to be installed:
 
