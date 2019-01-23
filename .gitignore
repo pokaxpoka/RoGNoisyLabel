@@ -1,0 +1,7 @@
+*.pyc
+data/*
+parameters/*
+labels/*
+*.ipynb_checkpoints
+__pycache__
+models/__pycache__
