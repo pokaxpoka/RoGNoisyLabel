@@ -22,5 +22,5 @@ python train.py --net_type densenet --dataset cifar10 --noise_type uniform --noi
 ## Performance evaluation
 ```
 # model: DenseNet, dataset: CIFAR-10, noise type: uniform, noise fraction: 60%
-python inference.py --net_type densenet --dataset cifar10 --noise_type uniform --fraction 60 --gpu 0
+python inference.py --net_type densenet --dataset cifar10 --noise_type uniform --noise_fraction 60 --gpu 0
 ```
