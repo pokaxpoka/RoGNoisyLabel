@@ -1,3 +1,8 @@
+# Robust Inference via Generative Classifiers for Handling Noisy Labels
+
+This project is for the paper "[Robust Inference via Generative Classifiers for Handling Noisy Labels
+](https://arxiv.org/abs/1901.11300)". Codes will be updated. 
+
 ## Preliminaries
 It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries Pytorch package to be installed:
 
