@@ -12,7 +12,7 @@ It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries
 
 ## Datasets
 
-* [Semantic Noisy Label](https://www.dropbox.com/s/0es40mbzwp2icnj/data_semantic_noisy.zip?dl=0): Datasets for reproducing the results on Table 6.
+* [Semantic Noisy Label](https://www.dropbox.com/s/mgq0zggi5dgj5rg/data_semantic_noisy.zip?dl=0): Datasets for reproducing the results on Table 6.
 
 * [OpenSet Noisy Label](https://www.dropbox.com/s/p4qmze27pu7aktj/openset_noisy.zip?dl=0): Datasets for reproducing the results on Table 7.
 
